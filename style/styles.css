@@ -1,0 +1,27 @@
+body{
+  background-color: crimson;
+}
+h1{
+    color: #ffffff;
+    padding: 5% 10%;
+    font-size: 4em;
+}
+.btns{
+  padding: 5% 10%;
+}
+#rpsgame{
+  padding: 5% 17%;
+  text-align: center;
+
+}
+.rps-img:hover{
+  box-shadow: 0px 10px 40px white;
+}
+p{
+  padding: 5% 5%;
+  color: #ffffff;
+}
+
+.internal{
+  padding: 3% 3%;
+}
